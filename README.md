@@ -1,9 +1,10 @@
 # DigitalFlowers
 Business management software for florists & designers
 
-##What is Digital Flowers?
+## What is Digital Flowers?
 Details Flower Software is a cloud-based business management software for florists and designers to organize events, inspire clients and connect with suppliers using a range of features including an events calendar, custom contracts and collaboration tools, plus invoicing and payments, e-signatures, color story design tools, and more. As a cloud-based solution, Details Flower Software gives users the flexibility to manage their florist business anytime, anywhere, via any internet-enabled device.
-##Key benefits of using Digital Flowers
+
+## Key benefits of using Digital Flowers
 - Details Flower Software offers a cloud-based solution which enables users to manage events anytime, anywhere, from any computer, phone or tablet device.
 - Users can manage schedules and track important dates relating to deposits, deliveries and other milestones from the events calendar.
 
